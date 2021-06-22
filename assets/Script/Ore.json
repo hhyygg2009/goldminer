@@ -1,0 +1,22 @@
+[
+    {
+        "res":"gold-0-0",
+        "speed":1,
+        "score":200
+    },
+    {
+        "res":"gold-1-0",
+        "speed":1,
+        "score":350
+    },
+    {
+        "res":"diamond-0",
+        "speed":5,
+        "score":500
+    },
+    {
+        "res":"bone-0",
+        "speed":5,
+        "score":50
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "appid": "wx876a5b78153f9b30",
+  "orientation": "landscape",
+  "separate_engine": false,
+  "REMOTE_SERVER_ROOT": "http://192.168.1.148/wx/",
+  "subContext": "",
+  "startSceneAssetBundle": false
+}

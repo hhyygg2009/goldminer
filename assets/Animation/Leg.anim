@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Leg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4a3becb9-5c34-400c-a643-e1ebf266c02c"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "9bf870ad-d730-4c25-a9e7-41a6cf469e10"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "c8618c57-1919-48e5-b788-6ca5ba18dad6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

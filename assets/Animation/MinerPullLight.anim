@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MinerPullLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0c9cf853-0dd9-4205-b997-e44b34eea4ac"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "73fa6ea7-3c94-47b9-aa0e-560d91600b14"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "77777df7-13ed-4655-8e69-87ba8576400f"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "ce99933a-3e90-4e2c-978e-0acdcd9fff00"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "3d4752d4-110e-494c-945c-213815e844da"
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "__uuid__": "b8347d59-8644-4f4f-9e52-4a213d2286e5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

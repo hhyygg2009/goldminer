@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MinerPullHeavy",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 11,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "32298a2c-2e32-4286-9298-453bad356370"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "287acaed-96ab-4350-97ed-03939c6e945a"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "875d70dd-2a1c-4e6f-b09a-adb8dbd6638e"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "dc7a4694-6d26-45df-b489-43af253fba2c"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "430b1d58-c6c5-4e84-8090-82ddab2ae528"
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "__uuid__": "5ace1ac7-9c89-45ad-8780-2d8800e33823"
+            }
+          },
+          {
+            "frame": 6,
+            "value": {
+              "__uuid__": "fd0982ba-732d-44e1-9292-8c80085181cf"
+            }
+          },
+          {
+            "frame": 7,
+            "value": {
+              "__uuid__": "e4324620-802d-4e17-8f58-8064a291a0cb"
+            }
+          },
+          {
+            "frame": 8,
+            "value": {
+              "__uuid__": "f614c2a2-266d-408a-b8c7-222ab99dea90"
+            }
+          },
+          {
+            "frame": 9,
+            "value": {
+              "__uuid__": "00394e50-f98c-4369-a047-37715d3ec12d"
+            }
+          },
+          {
+            "frame": 10,
+            "value": {
+              "__uuid__": "58038550-c3f9-4df8-905b-554609976a60"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
